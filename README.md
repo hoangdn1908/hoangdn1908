@@ -2,7 +2,7 @@
 <!-- HEADER BANNER -->
 <!-- ======================================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,38,45&height=180&section=header&text=Tran%20Viet%20Hoang&fontSize=38&fontAlignY=38&desc=Unity%20Game%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Tran Viet Hoang - Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,38,45&height=180&section=header&text=VIET%20HOANG%20TRAN&fontSize=38&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20Unity%20Game%20Developer%20%7C%20C%23%20Adventurer%20%E2%9A%94%EF%B8%8F&descAlignY=60&descAlign=50" width="100%" alt="Tran Viet Hoang - Header Banner" />
 </div>
 
 <!-- ======================================================== -->
@@ -37,7 +37,7 @@
 <tr>
 <td width="72%" valign="top">
 
-Greetings, fellow Traveler! I'm **Trần Việt Hoàng (Viet Hoang Tran)**, an Information Technology student and an aspiring **Unity Game Developer**. 
+Greetings, fellow Traveler! I'm **Tran Viet Hoang**, an Information Technology student and an aspiring **Unity Game Developer**. 
 
 I have a deep passion for bringing virtual worlds to life through interactive gameplay, responsive mechanics, and clean code architecture. When I'm not diving into Unity documentation or debugging C# scripts, I love exploring game design theory and studying what makes games truly fun and memorable.
 
@@ -136,20 +136,24 @@ Whether you're gearing up for a **Game Jam**, building an **indie prototype**, o
 
 ### 📡 Send a Co-op Invitation
 
+<a href="https://github.com/hoangdn1908">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="hoangtranb02@gmail.com">
   <img src="https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
 &nbsp;
-<a href="https://YOUR_ITCHIO_USERNAME.itch.io">
+<a href="https://hoangdn1908.itch.io/">
   <img src="https://img.shields.io/badge/itch.io-Play%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge" />
 </a>
 &nbsp;
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+<a href="https://www.facebook.com/hoagn.1908">
+  <img src="https://img.shields.io/badge/Discord-Join%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
 </a>
 
 </div>
