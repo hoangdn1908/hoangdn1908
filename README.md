@@ -2,7 +2,7 @@
 <!-- HEADER BANNER -->
 <!-- ======================================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,38,45&height=180&section=header&text=VIET%20HOANG%20TRAN&fontSize=38&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20Unity%20Game%20Developer%20%7C%20C%23%20Adventurer%20%E2%9A%94%EF%B8%8F&descAlignY=60&descAlign=50" width="100%" alt="Viet Hoang Tran - Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,38,45&height=180&section=header&text=Tran%20Viet%20Hoang&fontSize=38&fontAlignY=38&desc=Unity%20Game%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Tran Viet Hoang - Header Banner" />
 </div>
 
 <!-- ======================================================== -->
@@ -136,10 +136,6 @@ Whether you're gearing up for a **Game Jam**, building an **indie prototype**, o
 
 ### 📡 Send a Co-op Invitation
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
@@ -152,8 +148,8 @@ Whether you're gearing up for a **Game Jam**, building an **indie prototype**, o
   <img src="https://img.shields.io/badge/itch.io-Play%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge" />
 </a>
 &nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
-  <img src="https://img.shields.io/badge/Discord-Join%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
 </a>
 
 </div>
