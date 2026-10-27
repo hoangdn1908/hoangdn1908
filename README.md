@@ -2,7 +2,7 @@
 <!-- HEADER BANNER -->
 <!-- ======================================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,38,45&height=180&section=header&text=VIET%20HOANG%20TRAN&fontSize=38&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20Unity%20Game%20Developer%20%7C%20C%23%20Adventurer%20%E2%9A%94%EF%B8%8F&descAlignY=60&descAlign=50" width="100%" alt="Tran Viet Hoang - Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,38,45&height=180&section=header&text=Tran%20Viet%20Hoang&fontSize=38&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20Unity%20Game%20Developer%20%E2%9A%94%EF%B8%8F&descAlignY=58&descAlign=50" width="100%" alt="Tran Viet Hoang - Header Banner" />
 </div>
 
 <!-- ======================================================== -->
@@ -136,15 +136,11 @@ Whether you're gearing up for a **Game Jam**, building an **indie prototype**, o
 
 ### 📡 Send a Co-op Invitation
 
-<a href="https://github.com/hoangdn1908">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/ho%C3%A0ng-tr%E1%BA%A7n-vi%E1%BB%87t-844812431/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 &nbsp;
-<a href="hoangtranb02@gmail.com">
+<a href="mailto:hoangtranb02@gmail.com">
   <img src="https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
 &nbsp;
@@ -153,7 +149,7 @@ Whether you're gearing up for a **Game Jam**, building an **indie prototype**, o
 </a>
 &nbsp;
 <a href="https://www.facebook.com/hoagn.1908">
-  <img src="https://img.shields.io/badge/Discord-Join%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
 </a>
 
 </div>
